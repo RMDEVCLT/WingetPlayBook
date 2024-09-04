@@ -1,7 +1,7 @@
 
-
-* Winget PlayBook for User Operating systems.
-* No support for Any Server OS.
+* NO SCCM, NO INTUNE, NO PROBLEM.
+* Winget PlayBook for EUC.
+* No support Servers OS.
 * This will show you how to install Software from Winget Package repository.
 
 1) Step 1 create your YAML file. With the list of software you need.
